@@ -1,0 +1,6 @@
+error记录的
+critical记录的
+error记录的
+critical记录的
+2020-03-14 08:35:53,359 - [创建一个自己的日志收集器.py-->line:30] - ERROR: error记录的
+2020-03-14 08:35:53,359 - [创建一个自己的日志收集器.py-->line:31] - ERROR: critical记录的
